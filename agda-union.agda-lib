@@ -1,0 +1,7 @@
+name: agda-union-0.1
+include: 
+  src
+  examples
+depend:
+  standard-library
+    
